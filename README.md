@@ -82,14 +82,14 @@ Navigate back to the Installation Files and download the PHP 7.3.8 file, then cl
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to "Downloads" in file explorer. Right click the new php download->Extract All->Browse->This PC->C: Drive->PHP folder->Selcet Folder->Extract. Once completed, navigate back to the Installation Files and download and install the VC redistributable. 
+Go to "Downloads" in file explorer. Right click the new php download->Extract All->Browse->This PC->C: Drive->PHP folder->Selcet Folder->Extract. Once completed, navigate back to the Installation Files and download and install the VC redistributable. CLick through the prompts to install, then navigate back to the Installation Files.
 </p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once there, download and install MySQL 5.5.62. 
 </p>
 
 <p>
