@@ -126,7 +126,7 @@ Once here, notice the red Xs in the list. Let's fix some of those. Go back to II
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then make your way back to the inetpub folder. Go to "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" and change the name to "C:\inetpub\wwwroot\osTicket\include\ost-config.php". Once it's renamed, right click->Properties->Security->Advanced->Disable Inheritance->Remove All. Once those are disabled, click add->Select Principal, type "Everyone" into the box and then click Check Names->OK->Full Control->OK->Apply->OK->OK.
 </p>
 <br />
 
