@@ -110,7 +110,7 @@ Navigate back to the Installation Files and download and install osTicket, and t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In IIS, go to sites->Default->osTicket. On the right hand side of the screen, click on "Browse *:80". It should automatically redirect to a web browser.
 </p>
 <br />
 
@@ -118,7 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once here, notice the red Xs in the list. Let's fix some of those. Go back to IIS and click sites->Default->osTicket->PHP Manager->Enable or Disable an Extension. From here enable the following: php_imap.dll, php_intl.dll, and php_opcache.dll. Refresh the osTicket webpage and notice the differences.
 </p>
 <br />
 
