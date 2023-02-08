@@ -89,7 +89,7 @@ Go to "Downloads" in file explorer. Right click the new php download->Extract Al
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once there, download and install MySQL 5.5.62. Click through the initial two prompts and then select Typical->Install->Finish. Then the configuration wizard should show up. From there, click through the first prompt and then select Standard Configuration. 
+Once there, download and install MySQL 5.5.62. Click through the initial two prompts and then select Typical->Install->Finish. Then the configuration wizard should show up. From there, click through the first prompt and then select Standard Configuration. Then set a password, click through the remaining prompts, and click execute. Finally, hit finish to close the configuration wizard.
 </p>
 
 <p>
