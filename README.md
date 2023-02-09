@@ -115,7 +115,7 @@ In IIS, go to sites->Default->osTicket. On the right hand side of the screen, cl
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/tI4FhG1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once here, notice the red Xs in the list. Let's fix some of those. Go back to IIS and click sites->Default->osTicket->PHP Manager->Enable or Disable an Extension. From here enable the following: php_imap.dll, php_intl.dll, and php_opcache.dll. Refresh the osTicket webpage and notice the differences.
@@ -123,7 +123,7 @@ Once here, notice the red Xs in the list. Let's fix some of those. Go back to II
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FSeCZdF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then make your way back to the inetpub folder. Go to "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" and change the name to "C:\inetpub\wwwroot\osTicket\include\ost-config.php". Once it's renamed, right click->Properties->Security->Advanced->Disable Inheritance->Remove All. Once those are disabled, click add->Select Principal, type "Everyone" into the box and then click Check Names->OK->Full Control->OK->Apply->OK->OK.
@@ -131,7 +131,7 @@ Then make your way back to the inetpub folder. Go to "C:\inetpub\wwwroot\osTicke
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DhxhcEg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Make your way back to the browser that osTicket is in. Click continue, and then fill out all of the required fields. Make sure you remember this info. Notice the SQL section. We need to set some things up first for that. 
@@ -139,7 +139,7 @@ Make your way back to the browser that osTicket is in. Click continue, and then 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/iPadQMn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Browse back to the Installation Files and download and install HeidiSQL. Click through the link on the document and install. Once in HeidiSQL, create a new session. Recall that we set the password for this earlier on. Enter that password and click Open.
@@ -147,7 +147,7 @@ Browse back to the Installation Files and download and install HeidiSQL. Click t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/QpEZIML.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now go back into the browser to the osTicket webpage. Scroll to the SQL section and input root as a username, and whichever password you chose. Go back to HeidiSQL and right click on the session name to create a new database. Name it "osTicket", then click OK. Click install.
@@ -155,7 +155,7 @@ Now go back into the browser to the osTicket webpage. Scroll to the SQL section 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Exo9dvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Congratulations! Just a few more things before you go. Open the osTicket URL on the congratulations page, as well as the Staff Control Panel URL. One more thing!
@@ -163,10 +163,10 @@ Congratulations! Just a few more things before you go. Open the osTicket URL on 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Beiuq5N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to C:\inetpub\wwwroot\osTicket\setup and delete it. Then go to C:\inetpub\wwwroot\osTicket\include\ost-config.php and change the permissions to read only. Take care brush ya hair. 
+Navigate to C:\inetpub\wwwroot\osTicket\setup and delete it. Then go to C:\inetpub\wwwroot\osTicket\include\ost-config.php and change the permissions to read only. See you soon! 
 </p>
 <br />
 
