@@ -93,7 +93,7 @@ Once there, download and install MySQL 5.5.62. Click through the initial two pro
 </p>
 
 <p>
-<img src="https://imgur.com/YAPjk7V" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YAPjk7V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now, in VM1, navigate to IIS  and run it as an administrator. Click PHP Manager in the menu then click Register New PHP Version->Browse (three dots)->PHP folder->php-cgi->OK. Now restart the server.
