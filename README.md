@@ -44,7 +44,7 @@ Once the deployment is complete, click on "Go To Resource". From this screen, we
 <img src="https://imgur.com/toS6H2l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After navigating to the home screen, we're ready to start gathering and downloading the prerequisites for osTicket. First, we'll have to enable IIS on the VM. Access the control panel, from here click on Programs->Turn Windows Features On or Off, then check the box next to Internet Information Services, then expand IIS->expand World Wide Web Services->expand Application Development Features->check the CGI box.
+After navigating to the home screen, we're ready to start gathering and downloading the prerequisites for osTicket. First, we'll have to enable IIS on the VM. Access the control panel, from here click on Programs->Turn Windows Features On or Off, then check the box next to Internet Information Services, then expand IIS->expand World Wide Web Services->expand Application Development Features ->check the CGI box.
 </p>
 <br />
 
