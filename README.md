@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/XMhMH1P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Welcome to my first tutorial! First things first: we'll be creating a resource group in the Azure portal, and then creating a 4vcpu Windows virtual machine in said resource group. We'll call the resource group "osTicket" and the virtual machine "VM1". You can call the resource group and VM anything you'd like, and you can use anywhere between a 2vcpu and 4vcpu machine.
