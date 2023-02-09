@@ -171,6 +171,6 @@ Navigate to C:\inetpub\wwwroot\osTicket\setup and delete it. Then go to C:\inetp
 <br />
 
 <p>
-Continued in 
+Continued <a href="">here.</a>
 </p>
 <br />
