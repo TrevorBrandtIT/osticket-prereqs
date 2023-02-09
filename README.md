@@ -41,7 +41,7 @@ Once the deployment is complete, click on "Go To Resource". From this screen, we
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/toS6H2l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After navigating to the home screen, we're ready to start gathering and downloading the prerequisites for osTicket. First, we'll have to enable IIS on the VM. Access the control panel, from here click on Programs->Turn Windows Features On or Off, then check the box next to Internet Information Services, then expand IIS->expand World Wide Web Services->expand Application Development Features->check the CGI box.
@@ -49,7 +49,7 @@ After navigating to the home screen, we're ready to start gathering and download
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/aD2SJIk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now that IIS is enabled, we'll need to install the Web Platform Installer. Navigate to <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">this link</a> in the VM. It includes everything we'll need to fulfill the prerequisites. Download the PHP Manager file from that folder. CLick Download Anyway when promptedm, then click open file. Click through the prompts to finish installation.
@@ -57,7 +57,7 @@ Now that IIS is enabled, we'll need to install the Web Platform Installer. Navig
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xM8OCSb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, we'll download the rewrite module from the folder with the installation documents. Click Download Anyway when prompted, and then open the file and install. Click through the prompts->Install->Finish.
