@@ -150,7 +150,7 @@ Browse back to the Installation Files and download and install HeidiSQL. Click t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Now go back into the browser to the osTicket webpage. Scroll to the SQL section and input root as a username, and whichever password you chose. Go back to HeidiSQL and right click on the session name to create a new database. Name it "osTicket", then click OK. Click install.
 </p>
 <br />
 
@@ -158,7 +158,7 @@ Browse back to the Installation Files and download and install HeidiSQL. Click t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Congratulations! Just a few more things before you go. Open the osTicket URL on the congratulations page, as well as the Staff Control Panel URL. One more thing!
 </p>
 <br />
 
@@ -166,6 +166,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to C:\inetpub\wwwroot\osTicket\setup and delete it. Then go to C:\inetpub\wwwroot\osTicket\include\ost-config.php and change the permissions to read only. Take care brush ya hair. 
+</p>
+<br />
+
+<p>
+Continued in 
 </p>
 <br />
