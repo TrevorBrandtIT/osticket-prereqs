@@ -60,7 +60,7 @@ Now that IIS is enabled, we'll need to install the Web Platform Installer. Navig
 <img src="https://imgur.com/xM8OCSb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we'll download the rewrite module from the folder with the installation documents. Click Download Anyway when prompted, and then open the file and install. Click through the prompts->Install->Finish.
+Next, we'll download the rewrite module from the folder with the installation documents. Click "Download Anyway" when prompted, and then open the file and install. Click through the prompts->Install->Finish.
 </p>
 <br />
 
@@ -68,7 +68,7 @@ Next, we'll download the rewrite module from the folder with the installation do
 <img src="https://imgur.com/9s3b22i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now navigate to the C drive and create a new folder named PHP.
+Now navigate to the C: drive and create a new folder named PHP.
 </p>
 
 <p>
@@ -89,7 +89,7 @@ Go to "Downloads" in file explorer. Right click the new php download->Extract Al
 <img src="https://imgur.com/Pygrq5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once there, download and install MySQL 5.5.62. Click through the initial two prompts and then select Typical-> Install ->Finish. Then the configuration wizard should show on screen from there, click through the first prompt and then select "Standard Configuration". Then set a password, click through the remaining prompts, and click execute. Finally, click finish to close the configuration wizard.
+Once there, download and install MySQL 5.5.62. Click through the initial two prompts and then select Typical-> Install ->Finish. Then the configuration wizard will display on screen from there, click through the first prompt and then select "Standard Configuration". Then set a password, click through the remaining prompts, and click execute. Finally, click finish to close the configuration wizard.
 </p>
 
 <p>
