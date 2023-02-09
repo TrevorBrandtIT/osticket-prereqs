@@ -52,7 +52,7 @@ After navigating to the home screen, we're ready to start gathering and download
 <img src="https://imgur.com/aD2SJIk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that IIS is enabled, we'll need to install the Web Platform Installer. Navigate to <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">this link</a> in the VM. It includes everything we'll need to fulfill the prerequisites. Download the PHP Manager file from that folder. CLick Download Anyway when promptedm, then click open file. Click through the prompts to finish installation.
+Now that IIS is enabled, we'll need to install the Web Platform Installer. Navigate to <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">this link</a> in the VM. It includes everything we'll need to fulfill the prerequisites. Download the PHP Manager file from that folder. Click "Download Anyway" when prompted, then click open file. Click through the prompts to finish installation.
 </p>
 <br />
 
