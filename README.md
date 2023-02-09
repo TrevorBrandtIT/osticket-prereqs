@@ -65,14 +65,14 @@ Next, we'll download the rewrite module from the folder with the installation do
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9s3b22i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now navigate to the C drive and create a new folder named PHP.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kS9BGNA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Navigate back to the Installation Files and download the PHP 7.3.8 file, then click download anyway.
