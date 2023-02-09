@@ -171,6 +171,6 @@ Navigate to C:\inetpub\wwwroot\osTicket\setup and delete it. Then go to C:\inetp
 <br />
 
 <p>
-Continued <a href="">here.</a>
+Continued <a href="https://github.com/trevorbrandtit/post-install-config">here.</a>
 </p>
 <br />
