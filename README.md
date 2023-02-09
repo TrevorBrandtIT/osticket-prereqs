@@ -75,7 +75,7 @@ Now navigate to the C drive and create a new folder named PHP.
 <img src="https://imgur.com/kS9BGNA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate back to the Installation Files and download the PHP 7.3.8 file, then click download anyway.
+Navigate back to the Installation Files and download the PHP 7.3.8 file, then click "Download Anyway".
 </p>
 
 <p>
@@ -89,14 +89,14 @@ Go to "Downloads" in file explorer. Right click the new php download->Extract Al
 <img src="https://imgur.com/Pygrq5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once there, download and install MySQL 5.5.62. Click through the initial two prompts and then select Typical->Install->Finish. Then the configuration wizard should show up. From there, click through the first prompt and then select Standard Configuration. Then set a password, click through the remaining prompts, and click execute. Finally, hit finish to close the configuration wizard.
+Once there, download and install MySQL 5.5.62. Click through the initial two prompts and then select Typical-> Install ->Finish. Then the configuration wizard should show on screen from there, click through the first prompt and then select "Standard Configuration". Then set a password, click through the remaining prompts, and click execute. Finally, click finish to close the configuration wizard.
 </p>
 
 <p>
 <img src="https://imgur.com/YAPjk7V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now, in VM1, navigate to IIS  and run it as an administrator. Click PHP Manager in the menu then click Register New PHP Version->Browse (three dots)->PHP folder->php-cgi->OK. Now restart the server.
+Now, in VM1, navigate to IIS  and run it as an administrator. Click PHP Manager in the menu then click Register New PHP Version ->Browse (three dots) ->PHP folder ->php-cgi ->OK. Now restart the server.
 </p>
 
 <p>
