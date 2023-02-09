@@ -79,35 +79,35 @@ Navigate back to the Installation Files and download the PHP 7.3.8 file, then cl
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3UbPa1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to "Downloads" in file explorer. Right click the new php download->Extract All->Browse->This PC->C: Drive->PHP folder->Selcet Folder->Extract. Once completed, navigate back to the Installation Files and download and install the VC redistributable. CLick through the prompts to install, then navigate back to the Installation Files.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Pygrq5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once there, download and install MySQL 5.5.62. Click through the initial two prompts and then select Typical->Install->Finish. Then the configuration wizard should show up. From there, click through the first prompt and then select Standard Configuration. Then set a password, click through the remaining prompts, and click execute. Finally, hit finish to close the configuration wizard.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/jjVTMgZ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now, in VM1, navigate to IIS  and run it as an administrator. Click PHP Manager in the menu then click Register New PHP Version->Browse (three dots)->PHP folder->php-cgi->OK. Now restart the server.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JOvjPmv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Navigate back to the Installation Files and download and install osTicket, and then copy the upload file into the c:\inetpub\wwwroot folder. Once it's done copying, rename upload to "osTicket". Then, reload IIS again.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ugPgTOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In IIS, go to sites->Default->osTicket. On the right hand side of the screen, click on "Browse *:80". It should automatically redirect to a web browser.
